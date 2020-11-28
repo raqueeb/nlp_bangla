@@ -8,7 +8,7 @@
 
 ১. https://www.facebook.com/mltraining/ 
 
-২. http://bit.ly/ml-trng 
+২. https://aiwithr.github.io/nlpbook/
 
 ## আগের বইগুলো
 
