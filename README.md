@@ -1,14 +1,16 @@
 ## টেন্সরফ্লো দিয়ে সহজ বাংলায় 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং (এনএলপি)
 
-বইটা লিখতে চেয়েছিলাম সামনের বছর। তবে, এই ৫০ বছর বয়সে সময় পাওয়া দুস্কর। তবে, লকডাউনের সুবিধা নিয়ে এই বইটায় হাত দেয়া।
+বইটা লিখতে চেয়েছিলাম সামনের বছর। তবে, এই ৫২ বছর বয়সে সময় পাওয়া দুস্কর। তবে, লকডাউনের সুবিধা নিয়ে এই বইটায় হাত দেয়া।
 
 [ আমি বই লিখি না, বরং ৫০ বছরের এক্সপেরিয়েন্স শেয়ার করি] কিছুটা কানেক্টিং দ্য ডটের মতো।
 
-এই নোটবুকগুলো একটা বইয়ে দাড়িয়ে যাবে। ভিডিও/অডিও পডকাস্ট পাবেন; 
+এই নোটবুকগুলো একটা বইয়ে দাড়িয়ে যাবে। ভিডিও/অডিও/ভিডিও পডকাস্ট পাবেন; 
 
 ১. https://www.facebook.com/mltraining/ 
 
 ২. https://aiwithr.github.io/nlpbook/
+
+৩. https://aiwithr.github.io/resources/
 
 ## আগের বইগুলো
 
@@ -23,7 +25,7 @@
 | হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://raqueeb.gitbooks.io/mlbook-titanic/content/) | [রকমারি](https://rokomari.com/book/174186/) | [প্লেলিস্ট](http://bit.ly/ml-2nd) |
 | 'শূন্য থেকে পাইথন মেশিন লার্নিং' \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://raqueeb.gitbook.io/scikit-learn/) | [রকমারি](https://www.rokomari.com/book/187277/) | [প্লেলিস্ট](http://bit.ly/ml-py2) |
 | হাতেকলমে পাইথন ডিপ লার্নিং | [গিটবুক](https://rakibul-hassan.gitbook.io/deep-learning/) | [রকমারি](https://www.rokomari.com/book/198757/) | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L64yse4BRzRYFn5HTYw1Ewb) |
-| হাতেকলমে ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [গিটহাব](https://github.com/raqueeb/nlp_bangla) | প্রকাশিতব্য | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L4sMoCygyX3cKkSOKdQA_BT) |
+| হাতেকলমে ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [গিটহাব](https://github.com/raqueeb/nlp_bangla) | [প্রকাশিতব্য](https://aiwithr.github.io/nlpbook/) | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L4sMoCygyX3cKkSOKdQA_BT) |
 | তিনটা বই একসাথে কেনার লিঙ্ক | আসবে | [রকমারি](https://www.rokomari.com/book/187570/) | [ভবিষ্যত](https://www.youtube.com/playlist?list=PL5NPSn95n_L5UIuCYp0ZUAVB-DBkGh9pZ) |
 
 ## সবুজ-হলুদ, লাল রঙের বই আর সাদা রঙের বই - এই দুটোর মধ্যে কোনটা দিয়ে আগে শুরু করব এবং কোনটা কোন সময়ের জন্য উপযোগী?
