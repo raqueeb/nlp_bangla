@@ -25,7 +25,7 @@
 | হাতেকলমে মেশিন লার্নিং \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://raqueeb.gitbooks.io/mlbook-titanic/content/) | [রকমারি](https://rokomari.com/book/174186/) | [প্লেলিস্ট](http://bit.ly/ml-2nd) |
 | 'শূন্য থেকে পাইথন মেশিন লার্নিং' \(দ্বিতীয় সংস্করণ\) | [গিটবুক](https://raqueeb.gitbook.io/scikit-learn/) | [রকমারি](https://www.rokomari.com/book/187277/) | [প্লেলিস্ট](http://bit.ly/ml-py2) |
 | হাতেকলমে পাইথন ডিপ লার্নিং | [গিটবুক](https://rakibul-hassan.gitbook.io/deep-learning/) | [রকমারি](https://www.rokomari.com/book/198757/) | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L64yse4BRzRYFn5HTYw1Ewb) |
-| হাতেকলমে ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [গিটহাব](https://github.com/raqueeb/nlp_bangla) | [প্রকাশিতব্য](https://aiwithr.github.io/nlpbook/) | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L4sMoCygyX3cKkSOKdQA_BT) |
+| হাতেকলমে বাংলা ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং | [গিটহাব](https://github.com/raqueeb/nlp_bangla) | [রকমারি](https://www.rokomari.com/book/209335/) | [প্লেলিস্ট](https://www.youtube.com/playlist?list=PL5NPSn95n_L4sMoCygyX3cKkSOKdQA_BT) |
 | তিনটা বই একসাথে কেনার লিঙ্ক | আসবে | [রকমারি](https://www.rokomari.com/book/187570/) | [ভবিষ্যত](https://www.youtube.com/playlist?list=PL5NPSn95n_L5UIuCYp0ZUAVB-DBkGh9pZ) |
 
 ## সবুজ-হলুদ, লাল রঙের বই আর সাদা রঙের বই - এই দুটোর মধ্যে কোনটা দিয়ে আগে শুরু করব এবং কোনটা কোন সময়ের জন্য উপযোগী?
