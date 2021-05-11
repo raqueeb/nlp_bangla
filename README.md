@@ -8,6 +8,29 @@
 
 [ আমি বই লিখি না, বরং ৫০ বছরের এক্সপেরিয়েন্স শেয়ার করি] কিছুটা কানেক্টিং দ্য ডটের মতো।
 
+## বইয়ের সূচী
+
+<figure>
+  <img src="https://github.com/raqueeb/nlp_bangla/raw/master/assets/nlp-1.png" width="720" />
+  <figcaption>হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং সূচী ১</figcaption>
+</figure>
+<figure>
+  <img src="https://github.com/raqueeb/nlp_bangla/raw/master/assets/nlp-2.png" width="720" />
+  <figcaption>হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং সূচী ২</figcaption>
+</figure>
+<figure>
+  <img src="https://github.com/raqueeb/nlp_bangla/raw/master/assets/nlp-3.png" width="720" />
+  <figcaption>হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং সূচী ৩</figcaption>
+</figure>
+<figure>
+  <img src="https://github.com/raqueeb/nlp_bangla/raw/master/assets/nlp-4.png" width="720" />
+  <figcaption>হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং সূচী ৪</figcaption>
+</figure>
+<figure>
+  <img src="https://github.com/raqueeb/nlp_bangla/raw/master/assets/nlp-5.png" width="720" />
+  <figcaption>হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং সূচী ৫</figcaption>
+</figure>
+
 এই নোটবুকগুলো একটা বইয়ে দাড়িয়ে যাবে। ভিডিও/অডিও/ভিডিও পডকাস্ট পাবেন; 
 
 ১. https://www.facebook.com/mltraining/ 
